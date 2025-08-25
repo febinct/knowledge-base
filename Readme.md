@@ -164,6 +164,7 @@
 - [modelcontextprotocol](https://github.com/modelcontextprotocol) - MCP organization
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP server collection
 - [arthurcolle/openai-mcp](https://github.com/arthurcolle/openai-mcp) - OpenAI MCP integration
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - IBM's MCP context management tool
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Claude Code resources
 - [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code subagents
 
@@ -194,6 +195,9 @@
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - Generative AI guide
 - [armankhondker/awesome-ai-ml-resources](https://github.com/armankhondker/awesome-ai-ml-resources) - AI/ML resources
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - LLM applications showcase
+
+### Algorithms & Computer Science
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All algorithms implemented in Java
 
 ### Finance & Trading
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Financial LLM
