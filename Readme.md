@@ -151,6 +151,7 @@
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Enterprise RAG framework
 
 ### Code Generation & AI Coding
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Deep learning for code
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Code generation model
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - Advanced code generation
 - [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Code generation system
